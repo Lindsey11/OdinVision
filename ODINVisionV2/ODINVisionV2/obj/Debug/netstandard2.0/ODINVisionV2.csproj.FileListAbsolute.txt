@@ -1,0 +1,16 @@
+/Users/lindseydrew/Projects/ODINVisionV2/ODINVisionV2/ODINVisionV2/bin/Debug/netstandard2.0/ODINVisionV2.deps.json
+/Users/lindseydrew/Projects/ODINVisionV2/ODINVisionV2/ODINVisionV2/bin/Debug/netstandard2.0/ODINVisionV2.dll
+/Users/lindseydrew/Projects/ODINVisionV2/ODINVisionV2/ODINVisionV2/bin/Debug/netstandard2.0/ref/ODINVisionV2.dll
+/Users/lindseydrew/Projects/ODINVisionV2/ODINVisionV2/ODINVisionV2/bin/Debug/netstandard2.0/ODINVisionV2.pdb
+/Users/lindseydrew/Projects/ODINVisionV2/ODINVisionV2/ODINVisionV2/obj/Debug/netstandard2.0/ODINVisionV2.csproj.AssemblyReference.cache
+/Users/lindseydrew/Projects/ODINVisionV2/ODINVisionV2/ODINVisionV2/obj/Debug/netstandard2.0/ODINVisionV2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lindseydrew/Projects/ODINVisionV2/ODINVisionV2/ODINVisionV2/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/lindseydrew/Projects/ODINVisionV2/ODINVisionV2/ODINVisionV2/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/lindseydrew/Projects/ODINVisionV2/ODINVisionV2/ODINVisionV2/obj/Debug/netstandard2.0/ODINVisionV2.AssemblyInfoInputs.cache
+/Users/lindseydrew/Projects/ODINVisionV2/ODINVisionV2/ODINVisionV2/obj/Debug/netstandard2.0/ODINVisionV2.AssemblyInfo.cs
+/Users/lindseydrew/Projects/ODINVisionV2/ODINVisionV2/ODINVisionV2/obj/Debug/netstandard2.0/ODINVisionV2.csproj.CoreCompileInputs.cache
+/Users/lindseydrew/Projects/ODINVisionV2/ODINVisionV2/ODINVisionV2/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/lindseydrew/Projects/ODINVisionV2/ODINVisionV2/ODINVisionV2/obj/Debug/netstandard2.0/ODINVisionV2.dll
+/Users/lindseydrew/Projects/ODINVisionV2/ODINVisionV2/ODINVisionV2/obj/Debug/netstandard2.0/ref/ODINVisionV2.dll
+/Users/lindseydrew/Projects/ODINVisionV2/ODINVisionV2/ODINVisionV2/obj/Debug/netstandard2.0/ODINVisionV2.pdb
+/Users/lindseydrew/Projects/ODINVisionV2/ODINVisionV2/ODINVisionV2/obj/Debug/netstandard2.0/SequenceView.xaml.g.cs

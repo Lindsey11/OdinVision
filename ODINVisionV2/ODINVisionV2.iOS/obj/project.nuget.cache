@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ez/YgELVZRz44F+8uafdCy4frCVaxImY3qHMm8aXgUQQ2Pyf7WksewttNnxOoCxO0rb830lA/Izv2KUDOEjawA==",
+  "success": true,
+  "projectFilePath": "/Users/lindseydrew/Projects/ODINVisionV2/ODINVisionV2/ODINVisionV2.iOS/ODINVisionV2.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/lindseydrew/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/lindseydrew/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/lindseydrew/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
