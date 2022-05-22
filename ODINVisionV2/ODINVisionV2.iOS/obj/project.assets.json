@@ -987,11 +987,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/lindseydrew/Projects/ODINVisionV2/ODINVisionV2/ODINVisionV2.iOS/ODINVisionV2.iOS.csproj",
+      "projectUniqueName": "/Users/lindseydrew/Projects/ODINVisionV2/OdinVision/ODINVisionV2/ODINVisionV2.iOS/ODINVisionV2.iOS.csproj",
       "projectName": "ODINVisionV2.iOS",
-      "projectPath": "/Users/lindseydrew/Projects/ODINVisionV2/ODINVisionV2/ODINVisionV2.iOS/ODINVisionV2.iOS.csproj",
+      "projectPath": "/Users/lindseydrew/Projects/ODINVisionV2/OdinVision/ODINVisionV2/ODINVisionV2.iOS/ODINVisionV2.iOS.csproj",
       "packagesPath": "/Users/lindseydrew/.nuget/packages/",
-      "outputPath": "/Users/lindseydrew/Projects/ODINVisionV2/ODINVisionV2/ODINVisionV2.iOS/obj/",
+      "outputPath": "/Users/lindseydrew/Projects/ODINVisionV2/OdinVision/ODINVisionV2/ODINVisionV2.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1006,8 +1006,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/lindseydrew/Projects/ODINVisionV2/ODINVisionV2/ODINVisionV2/ODINVisionV2.csproj": {
-              "projectPath": "/Users/lindseydrew/Projects/ODINVisionV2/ODINVisionV2/ODINVisionV2/ODINVisionV2.csproj"
+            "/Users/lindseydrew/Projects/ODINVisionV2/OdinVision/ODINVisionV2/ODINVisionV2/ODINVisionV2.csproj": {
+              "projectPath": "/Users/lindseydrew/Projects/ODINVisionV2/OdinVision/ODINVisionV2/ODINVisionV2/ODINVisionV2.csproj"
             }
           }
         }

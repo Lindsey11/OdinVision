@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/lindseydrew/Projects/ODINVisionV2/ODINVisionV2/ODINVisionV2/ODINVisionV2.csproj": {}
+    "/Users/lindseydrew/Projects/ODINVisionV2/OdinVision/ODINVisionV2/ODINVisionV2/ODINVisionV2.csproj": {}
   },
   "projects": {
-    "/Users/lindseydrew/Projects/ODINVisionV2/ODINVisionV2/ODINVisionV2/ODINVisionV2.csproj": {
+    "/Users/lindseydrew/Projects/ODINVisionV2/OdinVision/ODINVisionV2/ODINVisionV2/ODINVisionV2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lindseydrew/Projects/ODINVisionV2/ODINVisionV2/ODINVisionV2/ODINVisionV2.csproj",
+        "projectUniqueName": "/Users/lindseydrew/Projects/ODINVisionV2/OdinVision/ODINVisionV2/ODINVisionV2/ODINVisionV2.csproj",
         "projectName": "ODINVisionV2",
-        "projectPath": "/Users/lindseydrew/Projects/ODINVisionV2/ODINVisionV2/ODINVisionV2/ODINVisionV2.csproj",
+        "projectPath": "/Users/lindseydrew/Projects/ODINVisionV2/OdinVision/ODINVisionV2/ODINVisionV2/ODINVisionV2.csproj",
         "packagesPath": "/Users/lindseydrew/.nuget/packages/",
-        "outputPath": "/Users/lindseydrew/Projects/ODINVisionV2/ODINVisionV2/ODINVisionV2/obj/",
+        "outputPath": "/Users/lindseydrew/Projects/ODINVisionV2/OdinVision/ODINVisionV2/ODINVisionV2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/lindseydrew/.config/NuGet/NuGet.Config"

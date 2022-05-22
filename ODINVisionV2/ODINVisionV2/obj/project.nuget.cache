@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TM4+xq0MZaUB/bqRaF+obWohtxkgJe8xo63OfDc48WKy4t27sgsYAMrq+mOQiRPqmpXoe51y6N3n1GTVYlIC8A==",
+  "dgSpecHash": "Y9TD111na7W2tuLvwEYoxvemZV3HOqtChH+PHqWKKgTyqg9JW+BAb6a80lWgNNTSBeLr52IEcAY6zYIWomeGxg==",
   "success": true,
-  "projectFilePath": "/Users/lindseydrew/Projects/ODINVisionV2/ODINVisionV2/ODINVisionV2/ODINVisionV2.csproj",
+  "projectFilePath": "/Users/lindseydrew/Projects/ODINVisionV2/OdinVision/ODINVisionV2/ODINVisionV2/ODINVisionV2.csproj",
   "expectedPackageFiles": [
     "/Users/lindseydrew/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/lindseydrew/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",

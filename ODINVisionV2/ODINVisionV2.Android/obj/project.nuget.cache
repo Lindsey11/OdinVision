@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x8WlDg2CQD2A+JBJGu+hjePu+NmZeqaLj+IxmNIxWqePAIBD1S68+Z1POR51o+m2AmO3I5H4+UJzC6xz90kZgg==",
+  "dgSpecHash": "N1uc66cdnklRFTEh0YVL2CX6PZ4cFWYHR9RxX87Xt3cuePRehxQaDgGCzxCRBUnrQoa6yvRRuguSIUmAzeG+Yw==",
   "success": true,
-  "projectFilePath": "/Users/lindseydrew/Projects/ODINVisionV2/ODINVisionV2/ODINVisionV2.Android/ODINVisionV2.Android.csproj",
+  "projectFilePath": "/Users/lindseydrew/Projects/ODINVisionV2/OdinVision/ODINVisionV2/ODINVisionV2.Android/ODINVisionV2.Android.csproj",
   "expectedPackageFiles": [
     "/Users/lindseydrew/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
     "/Users/lindseydrew/.nuget/packages/xamarin.androidx.activity/1.2.4.1/xamarin.androidx.activity.1.2.4.1.nupkg.sha512",
